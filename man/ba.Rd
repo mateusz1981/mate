@@ -5,7 +5,7 @@
 To calculate
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+New description is added to this file to test the pull commend
 }
 \usage{
 badun(x)
