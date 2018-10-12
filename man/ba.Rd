@@ -1,5 +1,5 @@
-\name{badun}
-\alias{badun}
+\name{ba}
+\alias{basal area}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 To calculate
@@ -13,7 +13,7 @@ badun(x)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{x}{
-%%     ~~Describe \code{x} here~~
+It is diameter
 }
 }
 \details{
@@ -30,7 +30,7 @@ badun(x)
 %% ~put references to the literature/web site here ~
 }
 \author{
-%%  ~~who you are~~
+Mateusz Liziniewicz
 }
 \note{
 %%  ~~further notes~~
